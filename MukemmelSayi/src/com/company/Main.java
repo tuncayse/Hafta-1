@@ -10,7 +10,6 @@ public class Main {
             if (sayı % i == 0){
                 total += i;
             }
-
         }
         if (sayı == total){
             System.out.println( sayı +" Mukemmel Bir Sayidir.");
